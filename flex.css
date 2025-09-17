@@ -1,4 +1,18 @@
 .body
+{
+  align-items: center;
+  width: 1000px;
+  padding: 30px;
+  width: auto;
+  height: auto;
+}
+
+.logo {
+  width: 90%;
+  height: 5%;
+  border-radius: 10px;
+  margin-left: 10px;
+}
 
 .nav {
   padding: 10px;
@@ -6,15 +20,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-
-}
-.nav-image {
-  align-items: center;
-  width: 1000px;
-  padding: 30px;
-  width: auto;
-  height: auto;
-
 }
 
 
