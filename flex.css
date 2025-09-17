@@ -1,0 +1,87 @@
+.body
+
+.nav {
+  padding: 10px;
+ width: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+.nav-image {
+  align-items: center;
+  width: 1000px;
+  padding: 30px;
+  width: auto;
+  height: auto;
+
+}
+
+
+.nav-items {
+  
+  margin-top: 50px;
+  margin-top: 20px;
+  margin-left: 23px;
+  display: flex;
+  padding : 20px;
+  align-items:flex-start;
+  color :rgb(219, 133, 133);
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  font-weight: 200;
+
+}
+.nav-item:hover {
+  color: rgb(147, 56, 56);
+ ;
+}
+.textbox {
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Arial, sans-serif;
+}
+
+.boxes {
+ display: flex;
+ justify-content: row;
+ border:2px solid #333;
+ border
+ border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px; 
+
+}
+.box {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+  font-size: 30px;
+  text-align: center;
+  flex-grow: 1;
+  border-radius: 10px;
+
+}
+.text-circle {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.circles {
+  display-flex;
+ justify-content: center;
+ align-content: center;
+   
+}
+.circle {
+color: #1f1e1d;
+font-size: medium;
+border : 2px solid #333;
+background-color: antiquewhite;
+padding : 20px;
+margin: 10px;
+border-radius: 10%;
+align-content: center;
+
+}
